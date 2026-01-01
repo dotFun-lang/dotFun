@@ -1,0 +1,9 @@
+*.df text eol=lf
+*.dotfun text eol=lf
+
+*.df linguist-language=dotFun
+*.dotfun linguist-language=dotFun
+
+bundle/ linguist-vendored
+dist/ linguist-generated
+*.min.js linguist-generated

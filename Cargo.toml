@@ -1,0 +1,10 @@
+[package]
+name = "dotFun"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "dotfun"
+path = "bootstrap/main.rs"
+
+[dependencies]
