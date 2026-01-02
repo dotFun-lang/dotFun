@@ -1,6 +1,6 @@
-# Contributing to dotFun
+# Contributing to glee
 
-Thanks for your interest in contributing to **dotFun** 🚀  
+Thanks for your interest in contributing to **glee** 🚀  
 This project is open to ideas, improvements, and experimentation.
 
 ---
@@ -25,5 +25,5 @@ You can help by:
 
 ### Clone the repository
 ```bash
-git clone https://github.com/dotFunLang/dotFun.git
-cd dotFun
+git clone https://github.com/gleeLang/glee.git
+cd glee

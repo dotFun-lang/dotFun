@@ -1,10 +1,5 @@
-package "dotFun/example" //The package is optional!
-//dotFun Example!
-import "example"
-import (
-    "package",
-    "anotherpackage"
-)
+//glee Example!
+use example;
 
 //HELLO WORLD!
 println("Hello World!"); //Semicolon is optional!
@@ -12,7 +7,7 @@ println("Hello World!"); //Semicolon is optional!
 //Functions
 
 fn hello(user) {
-    println("Hello " + user + "!")
+    println("Hello " + user + "!");
 }
 
 //You can also add types!

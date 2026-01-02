@@ -2,20 +2,20 @@
 
 ## Supported Versions
 
-The following versions of dotFun are currently supported with security updates:
+The following versions of glee are currently supported with security updates:
 
 | Version | Supported |
 |--------|-----------|
 | main   | ✅ Yes     |
 | older releases | ❌ No |
 
-> dotFun is currently in early development. Only the `main` branch receives security fixes.
+> glee is currently in early development. Only the `main` branch receives security fixes.
 
 ---
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability in dotFun, **please do NOT open a public issue**.
+If you discover a security vulnerability in glee, **please do NOT open a public issue**.
 
 Instead, report it privately by one of the following methods:
 
@@ -34,9 +34,9 @@ We aim to respond within **72 hours**.
 ## Scope
 
 This security policy applies to:
-- The dotFun language runtime
-- The dotFun compiler
-- The official CLI tools (`dotfun`, `bundle`)
+- The glee language runtime
+- The glee compiler
+- The official CLI tools (`glee`, `loom`)
 - The standard library
 
 Third-party packages are the responsibility of their respective maintainers.
@@ -48,4 +48,4 @@ Third-party packages are the responsibility of their respective maintainers.
 - Vulnerabilities will be fixed before public disclosure whenever possible
 - Credits will be given to the reporter unless anonymity is requested
 
-Thank you for helping keep dotFun safe ❤️
+Thank you for helping keep glee safe ❤️

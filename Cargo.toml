@@ -1,10 +1,10 @@
 [package]
-name = "dotFun"
+name = "glee"
 version = "0.1.0"
 edition = "2024"
 
 [[bin]]
-name = "dotfun"
+name = "glee"
 path = "bootstrap/main.rs"
 
 [dependencies]
